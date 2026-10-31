@@ -29,8 +29,6 @@ Il simule l’analyse d’activité d’une entreprise du secteur du BTP afin d�
 
 ## 🖼️ Aperçu du tableau de bord
 
-Ajoutez la capture d’écran dans votre dépôt (ex : `assets/dashboard.png`) puis insérez :
-
 ![Dashboard BTP](C:\GitHub\pilotage_BTP)
 
 ---
