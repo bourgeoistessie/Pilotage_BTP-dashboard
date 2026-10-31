@@ -29,7 +29,7 @@ Il simule l’analyse d’activité d’une entreprise du secteur du BTP afin d�
 
 ## 🖼️ Aperçu du tableau de bord
 
-![Dashboard BTP](pilotage_BTP/assets/pilotage_BTP.png)
+![Dashboard BTP](/assets/pilotage_BTP.png)
 
 ---
 
