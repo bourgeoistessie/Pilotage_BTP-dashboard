@@ -1,4 +1,3 @@
-# Pilotage_BTP-dashboard
 # Tableau de bord BTP – Projet fictif
 
 Ce projet est un **dashboard fictif** réalisé dans le cadre d’un apprentissage en data visualisation.  
